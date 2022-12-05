@@ -1,0 +1,33 @@
+header{
+    background-color: red;
+    text-align: center;
+}
+
+body{
+    background-color: orange;
+}
+
+footer{
+    background-color: green;
+    text-align: center;
+}
+
+section{
+    background-color: purple;
+    height: 500px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+div{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    box-shadow: 10px 5px 5px red ;
+    border-radius: 3px;
+    border-color: black;
+    
+}
